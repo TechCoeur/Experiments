@@ -1,0 +1,10 @@
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/bin/Debug/netcoreapp2.0/TrialProject.deps.json
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/bin/Debug/netcoreapp2.0/TrialProject.runtimeconfig.json
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/bin/Debug/netcoreapp2.0/TrialProject.runtimeconfig.dev.json
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/bin/Debug/netcoreapp2.0/TrialProject.dll
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/bin/Debug/netcoreapp2.0/TrialProject.pdb
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/obj/Debug/netcoreapp2.0/TrialProject.csproj.CoreCompileInputs.cache
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/obj/Debug/netcoreapp2.0/TrialProject.AssemblyInfoInputs.cache
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/obj/Debug/netcoreapp2.0/TrialProject.AssemblyInfo.cs
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/obj/Debug/netcoreapp2.0/TrialProject.dll
+/Users/Phyxsiuss/Documents/CoeurFamilleHoldings/TechCoeur/Experiments/TrialProject/obj/Debug/netcoreapp2.0/TrialProject.pdb
